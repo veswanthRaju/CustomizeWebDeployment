@@ -1,0 +1,6 @@
+D:\DotNet\AspProjects\AutomateWebDeployment\AutomateWebDeployment\bin\Debug\AutomateWebDeployment.exe.config
+D:\DotNet\AspProjects\AutomateWebDeployment\AutomateWebDeployment\bin\Debug\AutomateWebDeployment.exe
+D:\DotNet\AspProjects\AutomateWebDeployment\AutomateWebDeployment\bin\Debug\AutomateWebDeployment.pdb
+D:\DotNet\AspProjects\AutomateWebDeployment\AutomateWebDeployment\obj\Debug\AutomateWebDeployment.csprojResolveAssemblyReference.cache
+D:\DotNet\AspProjects\AutomateWebDeployment\AutomateWebDeployment\obj\Debug\AutomateWebDeployment.exe
+D:\DotNet\AspProjects\AutomateWebDeployment\AutomateWebDeployment\obj\Debug\AutomateWebDeployment.pdb
